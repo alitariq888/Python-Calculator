@@ -1,14 +1,27 @@
 # Python Calculator
 
-This is my first Python project.
+A simple command-line calculator built using Python.
 
-Features:
+## Features
 
 - Addition
 - Subtraction
 - Multiplication
 - Division
+- Error handling for division by zero
+- Input validation
+- Continuous calculations until the user exits
 
-Language:
+## Technologies Used
 
-Python
+- Python 3
+
+## How to Run
+
+```bash
+python calculator.py
+```
+
+## Author
+
+Ali Tariq
